@@ -2,6 +2,8 @@
 Components:
 2 Arduino uno, PIR sensor, OV7670 (Camera module).
 
+Create a folder called "out" in C drive it should look like (C:\out). The photos captured will be saved here.
+
 Install the CamCode in Uno and connect to OV7670 to it as shown in the CamConnection.
 
 Install the PirCode in Uno and connect the Pir to it.

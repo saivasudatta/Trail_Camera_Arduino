@@ -6,7 +6,7 @@ Install the CamCode in Uno and connect to OV7670 to it as shown in the CamConnec
 
 Install the PirCode in Uno and connect the Pir to it.
 
-Download and extract the Extra.rar file below and open it. As you could see, there is src folder, lib folder and "win32com.dll". You have to copy and placed "win32com.dll" in the "C:\Program Files\Java\jdk1.8.0_74\jre\bin" directory.
+In Extra.rar there is src folder, lib folder and "win32com.dll". You have to copy and placed "win32com.dll" in the "C:\Program Files\Java\jdk1.8.0_74\jre\bin" directory.
 
 Then, open the lib and you could see the "comm.jar" and "javax.comm.properties" in it. Copy and paste the "comm.jar" in "C:\Program Files\Java\jdk1.8.0_74\jre\lib\ext" and "javax.comm.properties" in the "C:\Program Files\Java\jdk1.8.0_74\jre\lib" directory.
 
